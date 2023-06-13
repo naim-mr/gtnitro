@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/gtnitro/META"
+  "_build/install/default/lib/gtnitro/dune-package"
+  "_build/install/default/lib/gtnitro/opam"
+]
+bin: [
+  "_build/install/default/bin/main"
+]
