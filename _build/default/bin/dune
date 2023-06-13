@@ -1,4 +1,0 @@
-(executable
- (public_name gtnitro)
- (name main)
- (libraries gtnitro))
